@@ -1,0 +1,7 @@
+PyQt5==5.15.9
+opencv-python==4.11.0.86
+qrcode==7.4.2
+pyserial==3.5
+pyzbar==0.1.9
+pywin32==306
+psutil==5.9.5 
